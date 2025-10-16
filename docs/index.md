@@ -3,7 +3,7 @@ Welcome to the official documentation for **RoAsync**, a lightweight async libra
 
 ## Modules
 - [TaskManager](TaskManager.md)
-- [Promise](Promise.md) (TODO)
+- [Promise](Promise.md)
 - [Timer](Timer.md) (TODO)
 - [Utils](Utils.md) (TODO)
 
