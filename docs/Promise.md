@@ -10,10 +10,10 @@ You can create promises, chain success and error callbacks, and integrate smooth
 - [Overview](#overview)
 - [Creating a Promise](#creating-a-promise)
 - [API](#api)
-  - [:Then(callback)](#thencallback)
-  - [:Catch(callback)](#catchcallback)
-  - [Promise.Resolve(value)](#promiseresolvevalue)
-  - [Promise.Reject(reason)](#promiserejectreason)
+  - [:Then](#thencallback)
+  - [:Catch](#catchcallback)
+  - [Promise.Resolve](#promiseresolvevalue)
+  - [Promise.Reject](#promiserejectreason)
 - [Examples](#examples)
 
 ---
