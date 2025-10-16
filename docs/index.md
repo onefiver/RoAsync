@@ -5,7 +5,7 @@ Welcome to the official documentation for **RoAsync**, a lightweight async libra
 - [TaskManager](TaskManager.md)
 - [Promise](Promise.md)
 - [Queue](Queue.md)
-- [Timer](Timer.md) (TODO)
+- [Timer](Timer.md)
 - [Utils](Utils.md) (TODO)
 
 ## Getting Started
