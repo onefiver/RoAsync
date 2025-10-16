@@ -9,10 +9,10 @@ It ensures tasks are executed in order (FIFO) and supports limiting concurrency.
 - [Overview](#overview)
 - [Creating a Queue](#creating-a-queue)
 - [API](#api)
-  - [Add(task)](#addtask)
-  - [SetConcurrency(n)](#setconcurrencyn)
-  - [Clear()](#clear)
-  - [Size()](#size)
+  - [Add](#addtask)
+  - [SetConcurrency](#setconcurrencyn)
+  - [Clear](#clear)
+  - [Size](#size)
 - [Examples](#examples)
 
 ---
