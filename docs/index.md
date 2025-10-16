@@ -6,7 +6,7 @@ Welcome to the official documentation for **RoAsync**, a lightweight async libra
 - [Promise](Promise.md)
 - [Queue](Queue.md)
 - [Timer](Timer.md)
-- [Utils](Utils.md) (TODO)
+- [Utils](Utils.md)
 
 ## Getting Started
 Copy the `RoAsync` .rbxm file into **ReplicatedStorage**:
