@@ -29,7 +29,7 @@ A **Queue** allows you to:
 
 ## Creating a Queue
 ```lua
-local RoAsync = require(game:GetService("ReplicatedStorage").RoAsync)
+local RoAsync = require(pathToRoAsync)
 
 -- Create a queue with 2 concurrent tasks
 local q = RoAsync.Queue(2)
