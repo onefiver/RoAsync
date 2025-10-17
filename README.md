@@ -7,7 +7,7 @@ With RoAsync, you can:
 - Use Promises for chaining tasks and handling errors
 - Manage task queues with `Queue`
 - Schedule timers with `Timer`
-- Use utility functions like `Throttle`, `Debounce`, and `Signal`
+- Use utility functions like `Throttle`, `Debounce`, `Retry` and `Sleep`
 
 RoAsync helps you avoid manually handling `task.spawn` and `task.wait`, making your code cleaner and more maintainable.
 
